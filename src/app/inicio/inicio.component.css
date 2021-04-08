@@ -1,0 +1,8 @@
+img {
+    pointer-events: none;
+}
+
+.naoArrasta{
+    -webkit-user-select: none;  
+    user-select: none;
+}
